@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # Triggers the workflow on pushes to 'master'
+      - master  # Triggers the workflow on pushes to 
 
 jobs:
   deploy:
