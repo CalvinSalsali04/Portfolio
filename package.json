@@ -2,6 +2,7 @@
   "name": "calvin-portfolio",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://calvinsalsali04.github.io/Portfolio",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
