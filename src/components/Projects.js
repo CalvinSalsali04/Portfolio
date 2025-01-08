@@ -159,32 +159,28 @@ const Projects = () => {
       title: "SecurePHI",
       description: "AI-driven healthcare data security solution that uses GPT-4o to identify, segment, and redact sensitive Personal Health Information, ensuring role-based access control and compliance.",
       image: securephi,
-      github: "https://github.com/username/ai-image-generator",
-      
+      github: "https://github.com/CalvinSalsali04/SecurePHI",
       tags: ["Python", "Flask", "React", "GPT-4o", "Postgres", "Pandas", "SMTP"]
     },
     {
       title: "Tesla.AI",
       description: "AI-powered investment tool driven by a custom-built LLM I developed and fine-tuned for sentiment analysis. It analyzes Elon Musk’s tweets and Tesla-related news to predict stock movements, providing real-time buy, hold, or sell recommendations based on market sentiment.",
       image: teslaai,
-      github: "https://github.com/username/ecommerce",
-      
+      github: "https://github.com/CalvinSalsali04/TSLA.AI",
       tags: [ "Python", "PyTorch", "Cohere", "Pandas", "Tweepy", "NewsAPI", "Twilio"]
     },
     {
       title: "Autonomous Vehicle Simulation",
       description: "Interactive simulation designed to optimize autonomous vehicle navigation and path planning. Built with p5.js, the application uses the A* algorithm to efficiently map routes, while advanced image processing techniques enable precise lane detection and feature recognition, enhancing overall vehicle awareness and decision-making.",
       image: autocar,
-      github: "https://github.com/username/social-analytics",
-      
+      github: "https://github.com/CalvinSalsali04/Autonomous-Vehicle-Simulation",
       tags: ["Python", "OpenCV", "NumPy", "React", "Javascript"]
     },
     {
       title: "MealMe",
       description: "Interactive web app that simplifies finding local eateries by using Google Maps API for location data and Rapid API for real-time restaurant and weather info. Users can discover nearby dining options, rate experiences, and explore restaurants worldwide.",
       image: mealme,
-      github: "https://github.com/username/chat-app",
-      demo: "",
+      github: "https://github.com/CalvinSalsali04/MealMe",
       tags: ["React", "NodeJs", "ExpressJs", "MySQL", "Google Maps API", "Rapid API"]
     }
     
