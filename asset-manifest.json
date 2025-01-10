@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ee0212b.css",
-    "main.js": "/static/js/main.968bb73a.js",
-    "static/media/tesla.jpg": "/static/media/tesla.e11854951cacf4b4fccf.jpg",
-    "static/media/car.jpg": "/static/media/car.fd4389f48895c40a9d85.jpg",
-    "static/media/mealme.jpg": "/static/media/mealme.83101e0c21823f413322.jpg",
-    "static/media/hospital.webp": "/static/media/hospital.3a8fa6edb1fb2325a714.webp",
-    "static/media/calvinpfp.jpeg": "/static/media/calvinpfp.fbba63b2347c10c2198c.jpeg",
-    "index.html": "/index.html",
-    "main.7ee0212b.css.map": "/static/css/main.7ee0212b.css.map",
-    "main.968bb73a.js.map": "/static/js/main.968bb73a.js.map"
+    "main.css": "/portfolio/static/css/main.7ee0212b.css",
+    "main.js": "/portfolio/static/js/main.93b60738.js",
+    "static/media/tesla.jpg": "/portfolio/static/media/tesla.e11854951cacf4b4fccf.jpg",
+    "static/media/car.jpg": "/portfolio/static/media/car.fd4389f48895c40a9d85.jpg",
+    "static/media/mealme.jpg": "/portfolio/static/media/mealme.83101e0c21823f413322.jpg",
+    "static/media/hospital.webp": "/portfolio/static/media/hospital.3a8fa6edb1fb2325a714.webp",
+    "static/media/calvinpfp.jpeg": "/portfolio/static/media/calvinpfp.fbba63b2347c10c2198c.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.7ee0212b.css.map": "/portfolio/static/css/main.7ee0212b.css.map",
+    "main.93b60738.js.map": "/portfolio/static/js/main.93b60738.js.map"
   },
   "entrypoints": [
     "static/css/main.7ee0212b.css",
-    "static/js/main.968bb73a.js"
+    "static/js/main.93b60738.js"
   ]
 }
